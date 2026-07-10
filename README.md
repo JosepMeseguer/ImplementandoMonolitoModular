@@ -1,6 +1,6 @@
 # Descripción
 
-## Desarrollo paso a paso de un projecto. 
+## Desarrollo paso a paso del projecto. 
 
 El primer paso es conocer el negocio y los datos precisos para gestionarlo. A partir de un buen diseño de los agrupamientos y validaciones precisas para los datos se determina:
 
