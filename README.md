@@ -2,6 +2,10 @@
 
 ## Desarrollo paso a paso del projecto. 
 
+Comenzamos con una base mínima, tomamos como ejemplo del desarrollo una empresa de transporte de paqueteria. Las funcionalidades básicas de gestión de recogida, transporte y entrega de paquetes de nuestros clientes serán las primeras a implementar. Pero el proyecto tiene un largo recorrido en cuanto añadamos capas como la de seguridad, servicios de auditoria, tracking de nuestros vehiculos en desplazamiento... 
+
+La arquitectura basada en un Monolito Modular permite comenzar desde un negocio pequeño, pero preparado para ir creciendo progresivamente y dar paso bien microservicios por contextos bien diferenciados. Añadir complejidad solo donde sea estrictamente necesario.
+
 El primer paso es conocer el negocio y los datos precisos para gestionarlo. A partir de un buen diseño de los agrupamientos y validaciones precisas para los datos se determina:
 
 + Qué datos son simples invariantes que pueden ser implementados como value objects
