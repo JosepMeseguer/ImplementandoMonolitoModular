@@ -18,5 +18,5 @@ Como en todo contexto real se trabaja con grises, en ocasiones podremos aplicar 
 
 A partir de un buen diseño de las estructura de datos se organizan las capas y las agrupaciones paralelas por contextos. Se define la arquitectura más idónea a las necesidades, un Monolito Modular suele ser la mejor opción, permite un lógico reparto de gestión de contextos entre los equipos y hace más sencillo pasar del monolito a una arquitectura de microservicios para los contextos que lo precisen.
 
-Añadir capas de servicio, persistencia, presentación, seguridad o auditoria son los siguientes pasos.
+Adaptar esta base a un prouecto concreto, añadir entidades específicas, capas de servicio, persistencia, presentación, seguridad o auditoria son los siguientes pasos.
 
